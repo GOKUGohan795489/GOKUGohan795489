@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+position.coords.latitude<!DOCTYPE html>
 <html lang="ur">
 <head>
     <meta charset="UTF-8">
